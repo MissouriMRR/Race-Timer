@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "RX5808")(type "KiCad")(uri "${KIPRJMOD}/RX5808.kicad_sym")(options "")(descr ""))
+  (lib (name "HC_06")(type "KiCad")(uri "${KIPRJMOD}/HC_06.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+)

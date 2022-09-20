@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "PidflightLap")(type "KiCad")(uri "C:/Users/c0nn0/Documents/Drone/PidflightLap.pretty")(options "")(descr ""))
+  (lib (name "RX5808 Footprint")(type "KiCad")(uri "C:/Users/c0nn0/Documents/Drone/RX5808 Footprint.pretty")(options "")(descr ""))
+  (lib (name "HC_06")(type "KiCad")(uri "C:/Users/c0nn0/Documents/Drone/HC_06.pretty")(options "")(descr ""))
+  (lib (name "ArduinoNanoV3 - Copy")(type "KiCad")(uri "C:/Users/c0nn0/Documents/Drone/ArduinoNanoV3 - Copy")(options "")(descr ""))
+  (lib (name "MultiRotorLogo")(type "KiCad")(uri "C:/Users/c0nn0/Documents/Drone/MultiRotorLogo.pretty")(options "")(descr ""))
+)
